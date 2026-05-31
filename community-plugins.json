@@ -30245,5 +30245,12 @@
     "author": "Kiril",
     "description": "This plugin has not been manually reviewed by Obsidian staff. prompt workflow automation, batch runs, run history, external vector index storage, Daily Note workflows, prompt library, RAG, and source references.",
     "repo": "kiril-liu/obsidian-ai-plugin"
+  },
+  {
+    "id": "workbench-drag-path",
+    "name": "Workbench Drag Path",
+    "author": "IvyYang1999",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Drag file explorer items as terminal-friendly absolute paths.",
+    "repo": "IvyYang1999/obsidian-workbench-drag-path"
   }
 ]
