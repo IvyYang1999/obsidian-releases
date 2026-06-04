@@ -31043,5 +31043,12 @@
     "author": "lyxdream",
     "description": "This plugin has not been manually reviewed by Obsidian staff. 粘贴抖音分享链接，调用本地后端提取文案与媒体并写入 Vault。需配合后端项目，具体请看README文件。",
     "repo": "lyxdream/obsidian-douyin-capture"
+  },
+  {
+    "id": "workbench-explorer-sort",
+    "name": "Workbench Explorer Sort",
+    "author": "IvyYang1999",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Sort file explorer folders by name, created time, or modified time.",
+    "repo": "IvyYang1999/obsidian-workbench-explorer-sort"
   }
 ]
